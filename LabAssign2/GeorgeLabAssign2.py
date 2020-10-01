@@ -3,7 +3,7 @@ Filename: GeorgeLabAssign2.py
 Created By: George Zhou
 Date: September 28, 2020
 Description: A simple Python GUI App
-Last Modified: September 28, 2020
+Last Modified: October 1, 2020
 """
 import string
 from tkinter import Tk, W, E, N, S, StringVar, ttk, IntVar, messagebox
